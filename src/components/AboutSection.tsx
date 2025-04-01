@@ -10,7 +10,7 @@ const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
           <div className="md:col-span-7 animate-slide-up">
             <p className="text-lg leading-relaxed mb-6">
-              Hi! I'm <span className="font-bold text-primary">Your Name</span>, a passionate web developer with a love for creating functional and beautiful web experiences. With a strong foundation in both frontend and backend technologies, I enjoy bringing ideas to life through clean, efficient code.
+              Hi! I'm <span className="font-bold text-primary">Obonyo Peter</span>, a passionate web developer with a love for creating functional and beautiful web experiences. With a strong foundation in both frontend and backend technologies, I enjoy bringing ideas to life through clean, efficient code.
             </p>
             
             <p className="text-lg leading-relaxed mb-6">
@@ -22,7 +22,7 @@ const AboutSection = () => {
             </p>
             
             <Button asChild className="animate-pulse">
-              <a href="/your-cv.pdf" download="Your-Name-CV.pdf">
+              <a href="/your-cv.pdf" download="Obonyo-Peter-CV.pdf">
                 Download CV
               </a>
             </Button>
@@ -35,7 +35,7 @@ const AboutSection = () => {
               <div className="space-y-3">
                 <div className="flex justify-between">
                   <span className="font-medium">Name:</span>
-                  <span>Your Name</span>
+                  <span>Obonyo Peter</span>
                 </div>
                 <div className="flex justify-between">
                   <span className="font-medium">Email:</span>

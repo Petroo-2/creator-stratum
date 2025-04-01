@@ -8,7 +8,7 @@ const HeroSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="animate-fade-in">
             <h2 className="text-xl font-medium text-primary mb-2">Hello, I'm</h2>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">Your Name</h1>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">Obonyo Peter</h1>
             <h3 className="text-2xl md:text-3xl font-medium text-muted-foreground mb-6">Web Developer</h3>
             <p className="text-lg mb-8 max-w-lg">
               A passionate developer focused on creating beautiful, functional, and user-centered digital experiences.

@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
-            <a href="#" className="text-xl font-bold text-primary">Your Name</a>
+            <a href="#" className="text-xl font-bold text-primary">Obonyo Peter</a>
             <p className="text-muted-foreground mt-1">Web Developer</p>
           </div>
           
@@ -28,7 +28,7 @@ const Footer = () => {
             </div>
             
             <div className="text-sm text-muted-foreground">
-              © {currentYear} Your Name. All rights reserved.
+              © {currentYear} Obonyo Peter. All rights reserved.
             </div>
           </div>
         </div>

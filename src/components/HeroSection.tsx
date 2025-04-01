@@ -26,8 +26,8 @@ const HeroSection = () => {
           <div className="hidden md:block relative animate-fade-in">
             <div className="aspect-square rounded-full bg-primary/10 flex items-center justify-center overflow-hidden border-4 border-primary/20">
               <img 
-                src="https://source.unsplash.com/random/400x400/?person" 
-                alt="Profile" 
+                src="/lovable-uploads/c4caf381-8491-401b-8f1e-0e4857b9eaf3.png" 
+                alt="Obonyo Peter" 
                 className="w-[90%] h-[90%] rounded-full object-cover"
               />
             </div>

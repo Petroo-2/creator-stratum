@@ -71,7 +71,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-bold">Email</h4>
-                  <p className="text-muted-foreground">your.email@example.com</p>
+                  <p className="text-muted-foreground">odiwuorp71@gmail.com</p>
                 </div>
               </div>
               
@@ -80,8 +80,10 @@ const ContactSection = () => {
                   <span className="text-xl">📱</span>
                 </div>
                 <div>
-                  <h4 className="font-bold">Phone</h4>
-                  <p className="text-muted-foreground">+254 700 000 000</p>
+                  <h4 className="font-bold">WhatsApp</h4>
+                  <a href="https://wa.me/254799034756" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary">
+                    0799034756
+                  </a>
                 </div>
               </div>
             </div>
@@ -89,17 +91,11 @@ const ContactSection = () => {
             <div className="mt-12">
               <h4 className="text-xl font-bold mb-4">Connect on Social Media</h4>
               <div className="flex space-x-4">
-                <a href="#" className="bg-primary/10 hover:bg-primary/20 p-3 rounded-full transition-colors">
-                  <span className="text-xl">🐦</span>
-                </a>
-                <a href="#" className="bg-primary/10 hover:bg-primary/20 p-3 rounded-full transition-colors">
+                <a href="https://www.linkedin.com/public-profile/settings" target="_blank" rel="noopener noreferrer" className="bg-primary/10 hover:bg-primary/20 p-3 rounded-full transition-colors">
                   <span className="text-xl">👔</span>
                 </a>
-                <a href="#" className="bg-primary/10 hover:bg-primary/20 p-3 rounded-full transition-colors">
-                  <span className="text-xl">🐱</span>
-                </a>
-                <a href="#" className="bg-primary/10 hover:bg-primary/20 p-3 rounded-full transition-colors">
-                  <span className="text-xl">📸</span>
+                <a href="https://wa.me/254799034756" target="_blank" rel="noopener noreferrer" className="bg-primary/10 hover:bg-primary/20 p-3 rounded-full transition-colors">
+                  <span className="text-xl">💬</span>
                 </a>
               </div>
             </div>

@@ -22,7 +22,7 @@ const AboutSection = () => {
             </p>
             
             <Button asChild className="animate-pulse">
-              <a href="/your-cv.pdf" download="Obonyo-Peter-CV.pdf">
+              <a href="/Obonyo-Peter-CV.pdf" download="Obonyo-Peter-CV.pdf">
                 Download CV
               </a>
             </Button>

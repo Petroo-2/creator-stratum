@@ -39,11 +39,11 @@ const AboutSection = () => {
                 </div>
                 <div className="flex justify-between">
                   <span className="font-medium">Email:</span>
-                  <span>your.email@example.com</span>
+                  <span>odiwuorp71@gmail.com</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="font-medium">Phone:</span>
-                  <span>+254 700 000 000</span>
+                  <span className="font-medium">WhatsApp:</span>
+                  <span>0799034756</span>
                 </div>
                 <div className="flex justify-between">
                   <span className="font-medium">Location:</span>
@@ -58,9 +58,8 @@ const AboutSection = () => {
               <div className="mt-6">
                 <h4 className="text-lg font-semibold mb-3">Follow Me</h4>
                 <div className="flex space-x-4">
-                  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary">GitHub</a>
-                  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary">LinkedIn</a>
-                  <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary">Twitter</a>
+                  <a href="https://www.linkedin.com/public-profile/settings" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary">LinkedIn</a>
+                  <a href="https://wa.me/254799034756" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary">WhatsApp</a>
                 </div>
               </div>
             </div>
